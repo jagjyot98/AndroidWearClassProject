@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWearApp</string>
+    <string name="long_hello_world"> Hello WearApp
+    </string>
+</resources>
